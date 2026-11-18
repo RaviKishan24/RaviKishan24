@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ravi Kishan Kumar</h1>
 
-<h3 align="center">Java Full Stack Developer | MERN Stack Developer</h3>
+<h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
